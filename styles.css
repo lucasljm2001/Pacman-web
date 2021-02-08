@@ -1,0 +1,39 @@
+.back{
+  background-color: #A2432F;
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  border: none;
+  border-radius: 20px;
+
+}
+img{
+  width: 0px;
+  height: 0px;
+}
+.marcador{
+  width: 182px;
+  height: 600px;
+  position: absolute;
+  left: 20px;
+  top: 0px;
+}
+#puntos{
+  font-family: Consolas;
+  font-size: 30px;
+  color: red;
+  background-color: green;
+}
+body{
+  background-image: url("fotos/estrellitas.jpeg");
+  background-size: cover;
+}
+h2{
+  position: absolute;
+  left: 20px;
+  top: 50px;
+  font-family: Consolas;
+  font-size: 30px;
+  color: red;
+  background-color: green;
+}
